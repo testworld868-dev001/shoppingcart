@@ -8,7 +8,7 @@
       "quantity": 25,
       "category": "Audio",
       "rating": 4.5,
-      "image": "public/product-1.png"
+      "image": "product-1.png"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "quantity": 40,
       "category": "Audio",
       "rating": 4.2,
-      "image": "public/product-2.png"
+      "image": "product-2.png"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "quantity": 15,
       "category": "Wearables",
       "rating": 4.7,
-      "image": "public/product-3.png"
+      "image": "product-3.png"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "quantity": 50,
       "category": "Accessories",
       "rating": 4.3,
-      "image": "public/product-4.png"
+      "image": "product-4.png"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "quantity": 30,
       "category": "Accessories",
       "rating": 4.8,
-      "image": "public/product-5.png"
+      "image": "product-5.png"
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "quantity": 100,
       "category": "Adapters",
       "rating": 4.1,
-      "image": "public/product-6.png"
+      "image": "product-6.png"
     },
     {
       "id": 7,
@@ -68,7 +68,7 @@
       "quantity": 100,
       "category": "Accessories",
       "rating": 4.1,
-      "image": "public/bluetooth-mouse.webp"
+      "image": "bluetooth-mouse.webp"
     }
   ]
 }
